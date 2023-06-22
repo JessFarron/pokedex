@@ -1,0 +1,126 @@
+
+.types {
+    padding: 5px;
+    margin: 10px;
+}
+
+.normal {
+    background-color: #a8a878;
+    border:solid 5px #c6c6a7;
+    border-radius: 13px;
+    color: white;
+}
+
+.ice {
+    background-color: #98d8d8;
+    border:solid 5px #638d8d;
+    border-radius: 13px;
+    color: white;
+}
+
+.fire {
+    background-color: #f08030;
+    border:solid 5px #9c531f;
+    border-radius: 13px;
+    color: white;
+}
+.water {
+    background-color: #6890f0;
+    border:solid 5px #46609f;
+    border-radius: 13px;
+    color: white;
+}
+.dragon {
+    background-color: #7038f8;
+    border:solid 5px #4924a1;
+    border-radius: 13px;
+    color: white;
+}
+.poison {
+    background-color: #a040a0;
+    border:solid 5px #682a68;
+    border-radius: 13px;
+    color: white;
+}
+.grass {
+    background-color: #78c850;
+    border:solid 5px #5c8c44;
+    border-radius: 13px;
+    color: white;
+}
+
+
+.psychic {
+    background-color: #f85888;
+    border:solid 5px #a13959;
+    border-radius: 13px;
+    color: white;
+}
+
+.electric {
+    background-color: #f8d030;
+    border:solid 5px #a1871f;
+    border-radius: 13px;
+    color: white;
+}
+
+.flying {
+    background-color: #a890f0;
+    border:solid 5px #70619e;
+    border-radius: 13px;
+    color: white;
+}
+
+.ground {
+    background-color: #e0c068;
+    border:solid 5px #948048;
+    border-radius: 13px;
+    color: white;
+}
+
+.fairy {
+    background-color: #ee99ac;
+    border:solid 5px #9b6470;
+    border-radius: 13px;
+    color: white;
+}
+
+.rock {
+    background-color: #b8a038;
+    border:solid 5px #786824;
+    border-radius: 13px;
+    color: white;
+}
+
+.steel {
+    background-color: #b8b8d0;
+    border:solid 5px #787887;
+    border-radius: 13px;
+    color: white;
+}
+.fight {
+    background-color: #c03028;
+    border:solid 5px #7d1f1a;
+    border-radius: 13px;
+    color: white;
+}
+
+.ghost {
+    background-color: #705898;
+    border:solid 5px #705898;
+    border-radius: 13px;
+    color: white;
+}
+
+.bug {
+    background-color: #a8b820;
+    border:solid 5px #6d7815;
+    border-radius: 13px;
+    color: white;
+}
+.dark {
+    background-color: #705848;
+    border:solid 5px #49392f;
+    border-radius: 13px;
+    color: white;
+}
